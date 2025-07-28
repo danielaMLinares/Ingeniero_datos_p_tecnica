@@ -1,0 +1,23 @@
+[project]
+name = "ingeniero-datos-p-tecnica"
+version = "0.1.0"
+description = "prueba tecnica para ingeniero de datos"
+authors = [
+    {name = "danielaMlinares",email = "sol_298@hotmail.es"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyodbc (>=5.2.0,<6.0.0)",
+    "pandas (>=2.3.1,<3.0.0)",
+    "python-dotenv (>=1.1.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.30.0"
+

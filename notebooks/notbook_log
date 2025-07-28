@@ -1,0 +1,6 @@
+2025-07-28 00:04:34,337 - ERROR - Error al cargar el archivo: [Errno 22] Invalid argument: 'data/raw/C:\\Users\\user\\Desktop\\PRUEBA_TECNICA\\Ingeniero_datos_p_tecnica\\data\\raw.csv'
+2025-07-28 00:05:27,840 - ERROR - Error al cargar el archivo: [Errno 22] Invalid argument: 'data/raw/C:\\Users\\user\\Desktop\\PRUEBA_TECNICA\\Ingeniero_datos_p_tecnica\\data\\raw.csv'
+2025-07-28 00:05:33,291 - ERROR - Error al cargar el archivo: [Errno 22] Invalid argument: 'data/raw/C:\\Users\\user\\Desktop\\PRUEBA_TECNICA\\Ingeniero_datos_p_tecnica\\data\\raw\\data_jobs.csv'
+2025-07-28 00:06:30,240 - ERROR - Error al cargar el archivo: [Errno 22] Invalid argument: 'data/raw/C:\\Users\\user\\Desktop\\PRUEBA_TECNICA\\Ingeniero_datos_p_tecnica\\data\\raw\\data_jobs.csv.csv'
+2025-07-28 00:11:39,848 - INFO - Conexión a la base de datos sumi exitosa.
+2025-07-28 00:11:46,837 - INFO - Conexión a la base de datos sumi exitosa.

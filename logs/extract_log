@@ -1,0 +1,8 @@
+2025-07-27 20:29:34,084 - ERROR - Error al conectar a la base de datos: ('IM002', '[IM002] [Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado (0) (SQLDriverConnect)')
+2025-07-27 20:29:34,084 - ERROR - Error en la conexión a la base de datos: ('IM002', '[IM002] [Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado (0) (SQLDriverConnect)')
+2025-07-27 20:31:48,252 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-27 20:31:52,901 - INFO - Proceso de conexión a la base de datos finalizado correctamente.
+2025-07-27 20:33:14,213 - INFO - Inicio del proceso de extracción del csv.
+2025-07-27 20:33:41,223 - INFO - Archivo cargado correctamente.
+2025-07-27 20:33:44,189 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-27 20:33:49,133 - INFO - Proceso de conexión a la base de datos finalizado correctamente.
