@@ -4,3 +4,24 @@
 2025-07-28 00:06:30,240 - ERROR - Error al cargar el archivo: [Errno 22] Invalid argument: 'data/raw/C:\\Users\\user\\Desktop\\PRUEBA_TECNICA\\Ingeniero_datos_p_tecnica\\data\\raw\\data_jobs.csv.csv'
 2025-07-28 00:11:39,848 - INFO - Conexión a la base de datos sumi exitosa.
 2025-07-28 00:11:46,837 - INFO - Conexión a la base de datos sumi exitosa.
+2025-07-28 19:24:04,348 - INFO - Conexión a la base de datos sumi exitosa.
+2025-07-28 19:37:12,210 - INFO - Conexión a la base de datos sumi exitosa.
+2025-07-28 19:46:05,660 - INFO - Conexión a la base de datos sumi exitosa.
+2025-07-28 19:46:26,669 - ERROR - Error al cargar el archivo: crear_tabla_dinamica() missing 1 required positional argument: 'tabla'
+2025-07-28 19:47:04,657 - ERROR - Error al cargar el archivo: 'DataFrame' object has no attribute 'cursor'
+2025-07-28 19:47:35,964 - INFO - Datos cargados correctamente en la tabla data_jobs_raw.
+2025-07-28 19:48:48,006 - ERROR - Error al cargar el archivo: ('22001', '[22001] ERROR: value too long for type character varying(255);\nError while executing the query (1) (SQLParamData)')
+2025-07-28 19:49:48,634 - INFO - Ocurrio un error al consultar (SELECT * FROM data_jobs_raw;): ('42P01', '[42P01] ERROR: relation "data_jobs_raw" does not exist;\nError while executing the query (1) (SQLExecDirectW)')
+2025-07-28 19:49:55,577 - ERROR - Error al cargar el archivo: ('42601', '[42601] ERROR: syntax error at or near "MAX";\nError while executing the query (1) (SQLExecDirectW)')
+2025-07-28 19:54:11,077 - INFO - Ocurrio un error al consultar (SELECT * FROM data_jobs_raw;): ('42P01', '[42P01] ERROR: relation "data_jobs_raw" does not exist;\nError while executing the query (1) (SQLExecDirectW)')
+2025-07-28 19:54:15,011 - ERROR - Error al cargar el archivo: 'NoneType' object has no attribute 'columns'
+2025-07-28 20:06:06,513 - ERROR - Error al hacer BULK INSERT: ('42601', '[42601] ERROR: syntax error at or near "BULK";\nError while executing the query (1) (SQLExecDirectW)')
+2025-07-28 20:08:01,045 - ERROR - Error al hacer BULK INSERT: ('42601', '[42601] ERROR: syntax error at or near "BULK";\nError while executing the query (1) (SQLExecDirectW)')
+2025-07-28 20:21:59,515 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:22:18,736 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:25:50,558 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:33:38,977 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:33:57,236 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:44:08,537 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:44:54,972 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 20:46:12,667 - INFO - Conexión a la base de datos exitosa.

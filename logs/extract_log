@@ -6,3 +6,51 @@
 2025-07-27 20:33:41,223 - INFO - Archivo cargado correctamente.
 2025-07-27 20:33:44,189 - INFO - Conexión a la base de datos establecida correctamente.
 2025-07-27 20:33:49,133 - INFO - Proceso de conexión a la base de datos finalizado correctamente.
+2025-07-28 21:35:44,659 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 21:35:44,700 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 21:38:35,664 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 21:38:35,692 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 21:38:38,397 - INFO - Se crea la tabla: data_jobs_raw con esta estrutura: 
+                CREATE TABLE IF NOT EXISTS data_jobs_raw (
+                    "job_title_short" TEXT, "job_title" TEXT, "job_location" TEXT, "job_via" TEXT, "job_schedule_type" TEXT, "job_work_from_home" BOOLEAN, "search_location" TEXT, "job_posted_date" TEXT, "job_no_degree_mention" BOOLEAN, "job_health_insurance" BOOLEAN, "job_country" TEXT, "salary_rate" TEXT, "salary_year_avg" FLOAT, "salary_hour_avg" FLOAT, "company_name" TEXT, "job_skills" TEXT, "job_type_skills" TEXT
+                );
+            
+2025-07-28 21:46:41,775 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 21:46:41,800 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 21:46:45,331 - INFO - Se crea la tabla: data_jobs_raw con esta estrutura: 
+                CREATE TABLE IF NOT EXISTS data_jobs_raw (
+                    "job_title_short" TEXT, "job_title" TEXT, "job_location" TEXT, "job_via" TEXT, "job_schedule_type" TEXT, "job_work_from_home" BOOLEAN, "search_location" TEXT, "job_posted_date" TEXT, "job_no_degree_mention" BOOLEAN, "job_health_insurance" BOOLEAN, "job_country" TEXT, "salary_rate" TEXT, "salary_year_avg" FLOAT, "salary_hour_avg" FLOAT, "company_name" TEXT, "job_skills" TEXT, "job_type_skills" TEXT
+                );
+            
+2025-07-28 21:58:49,173 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 21:58:49,198 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 21:58:50,951 - INFO - Se crea la tabla: data_jobs_raw con esta estrutura: 
+                CREATE TABLE IF NOT EXISTS data_jobs_raw (
+                    "job_title_short" TEXT, "job_title" TEXT, "job_location" TEXT, "job_via" TEXT, "job_schedule_type" TEXT, "job_work_from_home" BOOLEAN, "search_location" TEXT, "job_posted_date" TEXT, "job_no_degree_mention" BOOLEAN, "job_health_insurance" BOOLEAN, "job_country" TEXT, "salary_rate" TEXT, "salary_year_avg" FLOAT, "salary_hour_avg" FLOAT, "company_name" TEXT, "job_skills" TEXT, "job_type_skills" TEXT
+                );
+            
+2025-07-28 21:59:27,198 - INFO - Inserción de tabla: data_jobs_raw exitosa
+2025-07-28 23:55:25,250 - INFO - Inicio del proceso de extracción del csv.
+2025-07-28 23:55:25,254 - ERROR - Error al cargar el archivo: [Errno 2] No such file or directory: 'data/raw/data_jobs.csv'
+2025-07-28 23:55:25,255 - ERROR - Error al cargar el archivo: [Errno 2] No such file or directory: 'data/raw/data_jobs.csv'
+2025-07-28 23:55:59,602 - INFO - Inicio del proceso de extracción del csv.
+2025-07-28 23:55:59,606 - ERROR - Error al cargar el archivo: [Errno 2] No such file or directory: 'data/raw/data_jobs.csv'
+2025-07-28 23:55:59,607 - ERROR - Error al cargar el archivo: [Errno 2] No such file or directory: 'data/raw/data_jobs.csv'
+2025-07-28 23:56:00,859 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 23:56:00,860 - INFO - Proceso de conexión a la base de datos finalizado correctamente.
+2025-07-28 23:56:01,562 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 23:56:01,607 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 23:56:03,842 - ERROR - Error al insertar los datos: cannot access local variable 'df' where it is not associated with a value
+2025-07-28 23:57:12,093 - INFO - Inicio del proceso de extracción del csv.
+2025-07-28 23:57:20,012 - INFO - Archivo cargado correctamente.
+2025-07-28 23:57:21,062 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 23:57:21,062 - INFO - Proceso de conexión a la base de datos finalizado correctamente.
+2025-07-28 23:57:21,573 - INFO - Conexión a la base de datos establecida correctamente.
+2025-07-28 23:57:21,617 - INFO - Conexión a la base de datos exitosa.
+2025-07-28 23:57:23,176 - INFO - Se crea la tabla: data_jobs_raw con esta estrutura: 
+                CREATE TABLE IF NOT EXISTS data_jobs_raw (
+                    "job_title_short" TEXT, "job_title" TEXT, "job_location" TEXT, "job_via" TEXT, "job_schedule_type" TEXT, "job_work_from_home" BOOLEAN, "search_location" TEXT, "job_posted_date" TEXT, "job_no_degree_mention" BOOLEAN, "job_health_insurance" BOOLEAN, "job_country" TEXT, "salary_rate" TEXT, "salary_year_avg" FLOAT, "salary_hour_avg" FLOAT, "company_name" TEXT, "job_skills" TEXT, "job_type_skills" TEXT
+                );
+            
+2025-07-28 23:58:02,515 - INFO - Inserción de tabla: data_jobs_raw exitosa
+2025-07-28 23:58:09,223 - INFO - Datos cargados correctamente en la tabla data_jobs_raw.
