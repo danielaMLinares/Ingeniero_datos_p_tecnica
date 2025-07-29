@@ -1,4 +1,4 @@
-# Job Listings Normalization Project
+# proyecto prueba tecnica
 
 Este proyecto consiste en la normalización y modelado de datos de vacantes de empleo a partir de un archivo CSV. El objetivo es crear un modelo relacional normalizado (3NF) e implementar un pipeline para extraer, transformar y cargar la información a una base de datos PostgreSQL.
 
